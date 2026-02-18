@@ -1,4 +1,3 @@
-import pytest
 from pizzeria.pizza import Pizza
 
 def test_create_pizza():
