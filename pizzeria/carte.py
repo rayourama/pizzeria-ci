@@ -1,5 +1,5 @@
 from .pizza import Pizza
-from .CartePizzeriaException import CartePizzeriaException
+from .exceptions import CartePizzeriaException
 
 
 class CartePizzeria:
